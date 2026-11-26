@@ -1,0 +1,13 @@
+# Minimum versions reflect the features used (OneHotEncoder(sparse_output=...), ConfusionMatrixDisplay.from_predictions, etc.).
+# The project was executed with: scikit-learn 1.9.1, pandas 3.0.6, numpy 2.5.4, matplotlib 3.11.2, seaborn 0.13.2, Python 3.12.
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.2
+matplotlib>=3.7
+seaborn>=0.12
+# to run the notebook
+notebook>=7.0
+ipykernel>=6.0
+# optional: run the notebook headless from the command line
+nbconvert>=7.0
+nbformat>=5.0
